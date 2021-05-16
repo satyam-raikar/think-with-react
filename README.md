@@ -1,4 +1,4 @@
-Live Link >> https://satyam-raikar.github.io/think-with-react/
+Live Link >> https://satyam-raikar.github.io/think-with-react/index.html
 
 ![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
 
